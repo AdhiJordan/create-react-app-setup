@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.pageDesign{
+	color: #fff;
+	height: 100vh;
+}
+.boxOne{
+	background: #2F6182;
+    padding: 50px;
+}
+.addressText{
+    position: relative;
+    top: 22%;
+}
+.rectangleBox{
+	    background: #225D85;
+    width: 300px;
+    height: 300px;
+    margin: 0px auto;
+    border: 10px solid black;
+}
+.actionButtons{
+	position: absolute;
+    right: 110px;
+}
